@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lights", "Lights\Lights.csproj", "{833305A7-C70C-4E5F-88BF-86374C266D3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Breakfast", "Breakfast\Breakfast.csproj", "{EE1871EE-C35A-44A7-A0B8-E06AF3A340B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{833305A7-C70C-4E5F-88BF-86374C266D3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{833305A7-C70C-4E5F-88BF-86374C266D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{833305A7-C70C-4E5F-88BF-86374C266D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{833305A7-C70C-4E5F-88BF-86374C266D3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE1871EE-C35A-44A7-A0B8-E06AF3A340B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE1871EE-C35A-44A7-A0B8-E06AF3A340B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE1871EE-C35A-44A7-A0B8-E06AF3A340B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE1871EE-C35A-44A7-A0B8-E06AF3A340B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35CAB4AB-E8A1-41F4-B81C-C0B33E5ADC03}
+	EndGlobalSection
+EndGlobal
