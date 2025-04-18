@@ -9,4 +9,4 @@
 ## Lights demo
 1. You will need to download Ollama and use the default models that comes with it. https://ollama.com/download
 2. Run Ligths and have fun.
-# SemanticKernelTest
+
